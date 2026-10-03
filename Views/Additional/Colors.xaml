@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="DarkGreen">#07372b</Color>
+    <Color x:Key="TextBlue">#b1ffff</Color>
+    <Color x:Key="TextGreen">#02fa87</Color>
+    <Color x:Key="AccentBlue">#006c6c</Color>
+    <Color x:Key="AccentGreen">#048c73</Color>
+</ResourceDictionary>
