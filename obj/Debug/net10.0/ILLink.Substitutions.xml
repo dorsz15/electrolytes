@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Electrolytes">
+    <resource name="FSharpSignatureData.Electrolytes" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Electrolytes" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Electrolytes" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Electrolytes" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Electrolytes" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Electrolytes" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Electrolytes" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Electrolytes" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Electrolytes" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Electrolytes" action="remove"></resource>
+  </assembly>
+</linker>
