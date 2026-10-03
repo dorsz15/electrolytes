@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\magda\\Documents\\GitHub\\Password-inspection\\Electrolytes\\",
+  "WorkspaceRootPath": "C:\\Users\\magda\\Documents\\GitHub\\ss-backup\\electrolytes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\magda\\Documents\\GitHub\\Password-inspection\\Electrolytes\\Views\\MainWindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MainWindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66D07A0E-12E5-4CA4-9692-5D997D7042E4}|Electrolytes.fsproj|c:\\users\\magda\\documents\\github\\password-inspection\\electrolytes\\viewmodels\\mainviewmodel.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{66D07A0E-12E5-4CA4-9692-5D997D7042E4}|Electrolytes.fsproj|solutionrelative:viewmodels\\mainviewmodel.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+      "AbsoluteMoniker": "D:0:0:{4035AEE3-5430-79A8-A660-997E561D1E17}|Electrolytes.fsproj|c:\\users\\magda\\documents\\github\\ss-backup\\electrolytes\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4035AEE3-5430-79A8-A660-997E561D1E17}|Electrolytes.fsproj|solutionrelative:views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,26 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\magda\\Documents\\GitHub\\Password-inspection\\Electrolytes\\Views\\MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\magda\\Documents\\GitHub\\ss-backup\\electrolytes\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\magda\\Documents\\GitHub\\Password-inspection\\Electrolytes\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\magda\\Documents\\GitHub\\ss-backup\\electrolytes\\Views\\MainWindow.axaml",
               "RelativeToolTip": "Views\\MainWindow.axaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-10-03T12:18:00.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainViewModel.fs",
-              "DocumentMoniker": "C:\\Users\\magda\\Documents\\GitHub\\Password-inspection\\Electrolytes\\ViewModels\\MainViewModel.fs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.fs",
-              "ToolTip": "C:\\Users\\magda\\Documents\\GitHub\\Password-inspection\\Electrolytes\\ViewModels\\MainViewModel.fs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-03T12:17:58.91Z",
               "EditorCaption": ""
             }
           ]
